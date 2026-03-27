@@ -1,8 +1,9 @@
 
-</p><h1 align="center">Hi 👋, I'm Shreya</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Shreya&center=true&width=300&height=50&duration=3000&pause=1000">
+</p>
 <h3 align="center">💻 IT Student | 🌐 Web Developer | ☁️ Cloud Learner</h3><!-- 🔥 Typing Animation --><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%7C+FastAPI+%7C+MySQL;AWS+Cloud+Learner;Building+Real+Projects&center=true&width=500&height=45">
-</p>---
+</p>
 
 About Me
 
@@ -11,30 +12,18 @@ About Me
 - 🌱 Learning: React, APIs, MySQL, FastAPI
 - 🎯 Goal: Become a Full Stack Developer
 
----
-
-🔥 What I'm Doing
+ What I'm Doing
 
 - 🔭 Building: Online Learning Platform (LMS Project)
 - 📚 Learning: AWS Cloud & Backend Development
 - ⚡ Fun fact: I love creating creative UI designs
 
----
 🌐 Connect with Me
-
-<p align="center">
-  <a href="YOUR_LINKEDIN">LinkedIn</a> • 
+<p align="center"> • 
   <a href="mailto:shreyabhosale2007@gmail.com">Email</a>
-</p>---
+</p>
 
-🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
-</p>---
-
- Quote
-
+Quote
 "Keep learning, keep building 🚀"
 
 <h3 align="left">Languages and Tools:</h3>
