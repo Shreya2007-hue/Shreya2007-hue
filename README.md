@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Shreya&center=true&width=300&height=50&duration=3000&pause=1000">
 </p>
-<h3 align="center">💻 IT Student | 🌐 Web Developer | ☁️ Cloud Learner</h3><!-- 🔥 Typing Animation --><p align="center">
+<h3 align="center"> IT Student |  Web Developer |  Cloud Learner</h3><!-- 🔥 Typing Animation --><p align="center">
 </p>
 
 About Me
@@ -17,12 +17,7 @@ About Me
 - 🔭 Building: Online Learning Platform (LMS Project)
 - 📚 Learning: AWS Cloud & Backend Development
 - ⚡ Fun fact: I love creating creative UI designs
-
-🌐 Connect with Me
-<p align="center"> • 
-  <a href="mailto:shreyabhosale2007@gmail.com">Email</a>
-</p>
-
+  
 Quote
 "Keep learning, keep building 🚀"
 
